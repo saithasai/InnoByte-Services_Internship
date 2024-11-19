@@ -1,4 +1,4 @@
-# Innobyte-Services_Internship  
+# InnoByte-Services_Internship  
 ## Problem Statement: 
 Analyze and Provide Insights on Amazon Sales Report 
 ## Problem Description: 
